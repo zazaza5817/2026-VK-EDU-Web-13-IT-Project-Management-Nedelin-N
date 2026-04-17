@@ -4,3 +4,4 @@
 - [HW2 - User Stories, MVP и требования](hw2/README.md)
 - [HW3 - Системный анализ и проектирование](hw3/README.md)
 - [HW4 - Архитектура и стек](hw4/README.md)
+- [HW5 - Команда, методология и ритуалы](hw5/README.md)
